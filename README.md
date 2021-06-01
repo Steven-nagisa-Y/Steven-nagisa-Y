@@ -1,4 +1,9 @@
 ### Hi there 👋
+**My Blog**
+
+- [RyzenX](https://ryzenx.com)
+- [StevenOS](https://stevenos.com)
+- [GMS.icu](http://gms.icu)
 
 <!--
 **Steven-nagisa-Y/Steven-nagisa-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
