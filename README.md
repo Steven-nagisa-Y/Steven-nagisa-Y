@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-I love coding. Intent to be a Special Person.
+I'm nobody.
 
-My major learning fields are: Frontend(Web and mini-App), O&M deployment, Client side(Android), Script(Python and JavaScript)
+My major learning fields are: Frontend(Web and mini-App), Service or Script(Python and JavaScript), O&M deployment, Android
 
 ### Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...**Frontend**
 - 👯 I’m looking to collaborate on ...**Special Person**
-- 🤔 I’m looking for help with ...**System underlying principle**
+- 🤔 I’m looking for help with ...**ruuuust!!!**
 - 💬 Ask me about ...**Anything** (but not guaranteed to reply...)
-- 📫 How to reach me: ...[E-mail](mailto:i@gms.icu)
+- 📫 How to reach me: ...[E-mail](mailto:steven_nagisa@outlook.com)
 - 😄 Pronouns: ...**小渚w**
 - ⚡ Fun fact: ...I love beautiful fonts!!!
 
@@ -18,7 +18,6 @@ My major learning fields are: Frontend(Web and mini-App), O&M deployment, Client
 
 - Personal Blog at [RyzenX](https://ryzenx.com)
 - Static Pages at [StevenOS](https://stevenos.com)
-- Open Source Project at [GMS.icu](http://gms.icu)
 
 ### Feature
 
