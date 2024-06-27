@@ -1,23 +1,22 @@
 ## Hi there 👋
 
-I'm nobody.
+I'm Steven.
 
-My major learning fields are: Frontend(Web and mini-App), Service or Script(Python and JavaScript), O&M deployment, Android
+I'm now a front-end engineer.
 
 ### Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...**Frontend**
+- 🌱 I’m currently learning ...**Chromium V8 Memory snapshot**
 - 👯 I’m looking to collaborate on ...**Special Person**
-- 🤔 I’m looking for help with ...**ruuuust!!!**
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...**Anything** (but not guaranteed to reply...)
-- 📫 How to reach me: ...[E-mail](mailto:steven_nagisa@outlook.com)
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...**小渚w**
 - ⚡ Fun fact: ...I love beautiful fonts!!!
 
 ### My Sites
 
-- Personal Blog at [RyzenX](https://ryzenx.com)
-- Static Pages at [StevenOS](https://stevenos.com)
+- Notion Blog at [StevenOS](https://stevenos.com)
 
 ### Feature
 
