@@ -1,18 +1,15 @@
 ## Hi there 👋
 
-I'm Steven.
-
 I'm now a front-end engineer.
 
 ### Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...**Chromium V8 Memory snapshot**
-- 👯 I’m looking to collaborate on ...**Special Person**
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...**Anything** (but not guaranteed to reply...)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...**小渚w**
-- ⚡ Fun fact: ...I love beautiful fonts!!!
+- 🌱 I’m currently learning **Android Development**
+- 👯 I’m looking to collaborate on **Special Person**
+- 🤔 I’m looking for help with **Unlock Xiaomi device**
+- 💬 Ask me about **Anything** (but not guaranteed to reply...)
+- 😄 Pronouns: **小渚w**
+- ⚡ Fun fact: I love beautiful fonts!!!
 
 ### My Sites
 
